@@ -1,0 +1,20 @@
+﻿<Window x:Class="EsempioWpf.RistoranteWpf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EsempioWpf"
+        mc:Ignorable="d"
+        Title="Ristorante" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.045,0.915" OpacityMask="#FFFFC6C6">
+        <Label Content="Nome Ristorante:" x:Name="lblNomeRisto" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="146" FontWeight="Bold"/>
+        <Label Content="Tavoli Prenotati" x:Name="lblTavoliPrenotati" HorizontalAlignment="Left" Margin="400,23,0,0" VerticalAlignment="Top" Width="134" FontWeight="Bold"/>
+        <Label Content="Tavoli Liberi" x:Name="lblTavoliLiberi" HorizontalAlignment="Left" Margin="588,23,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold"/>
+        <Label Content="Coperti Disponibili" x:Name="lblCopertiLiberi" HorizontalAlignment="Left" Margin="400,83,0,0" VerticalAlignment="Top" Width="220" FontWeight="Bold"/>
+        <Button Content="Prenota!" x:Name="btnPrenota" HorizontalAlignment="Left" Margin="30,217,0,0" VerticalAlignment="Top" Height="79" Width="204" FontSize="30" Foreground="#FF24ADE8" Background="#FF693131" Click="ClickPrenota"/>
+        <TextBox HorizontalAlignment="Left" x:Name="txtNumClienti" Margin="30,73,0,0" TextWrapping="Wrap" Text="Inseririre il numero di persone che saranno presenti al tavolo:" VerticalAlignment="Top" Width="255" Height="36" FontStyle="Italic" GotFocus="CleanTxt"/>
+        <TextBox HorizontalAlignment="Left" x:Name="txtNomeCliente" Margin="30,130,0,0" TextWrapping="Wrap" Text="Inserire il nome a cui riservare la prenotazione:" VerticalAlignment="Top" Width="255" Height="28" FontStyle="Italic" GotFocus="CleanTxt"/>
+        <Label Content="Stato Prenotazione:" x:Name="lblStato" HorizontalAlignment="Left" Margin="375,199,0,0" VerticalAlignment="Top" Height="120" Width="356" FontWeight="Bold" FontSize="30"/>
+
+    </Grid>
+</Window>
