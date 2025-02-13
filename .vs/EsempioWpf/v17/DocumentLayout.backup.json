@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\latif\\Downloads\\EsempioWpf_2025-01-10\\EsempioWpf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A04A741-299B-4BE1-B09F-939714549882}|EsempioWpf\\EsempioWpf.csproj|c:\\users\\latif\\downloads\\esempiowpf_2025-01-10\\esempiowpf\\esempiowpf\\ristorantewpf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A04A741-299B-4BE1-B09F-939714549882}|EsempioWpf\\EsempioWpf.csproj|solutionrelative:esempiowpf\\ristorantewpf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A04A741-299B-4BE1-B09F-939714549882}|EsempioWpf\\EsempioWpf.csproj|c:\\users\\latif\\downloads\\esempiowpf_2025-01-10\\esempiowpf\\esempiowpf\\ristorantewpf.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A04A741-299B-4BE1-B09F-939714549882}|EsempioWpf\\EsempioWpf.csproj|solutionrelative:esempiowpf\\ristorantewpf.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A04A741-299B-4BE1-B09F-939714549882}|EsempioWpf\\EsempioWpf.csproj|c:\\users\\latif\\downloads\\esempiowpf_2025-01-10\\esempiowpf\\esempiowpf\\ristorantewpf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A04A741-299B-4BE1-B09F-939714549882}|EsempioWpf\\EsempioWpf.csproj|solutionrelative:esempiowpf\\ristorantewpf.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A04A741-299B-4BE1-B09F-939714549882}|EsempioWpf\\EsempioWpf.csproj|c:\\users\\latif\\downloads\\esempiowpf_2025-01-10\\esempiowpf\\esempiowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RistoranteWpf.xaml.cs",
               "DocumentMoniker": "C:\\Users\\latif\\Downloads\\EsempioWpf_2025-01-10\\EsempioWpf\\EsempioWpf\\RistoranteWpf.xaml.cs",
               "RelativeDocumentMoniker": "EsempioWpf\\RistoranteWpf.xaml.cs",
               "ToolTip": "C:\\Users\\latif\\Downloads\\EsempioWpf_2025-01-10\\EsempioWpf\\EsempioWpf\\RistoranteWpf.xaml.cs",
               "RelativeToolTip": "EsempioWpf\\RistoranteWpf.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAjwEIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAjwDcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T15:39:22.422Z",
               "EditorCaption": ""
@@ -91,7 +91,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RistoranteWpf.xaml",
               "DocumentMoniker": "C:\\Users\\latif\\Downloads\\EsempioWpf_2025-01-10\\EsempioWpf\\EsempioWpf\\RistoranteWpf.xaml",
               "RelativeDocumentMoniker": "EsempioWpf\\RistoranteWpf.xaml",
